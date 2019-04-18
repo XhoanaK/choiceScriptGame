@@ -1,0 +1,55 @@
+*comment Copyright 2010 by Dan Fabulich.
+*comment
+*comment Dan Fabulich licenses this file to you under the
+*comment ChoiceScript License, Version 1.0 (the "License"); you may
+*comment not use this file except in compliance with the License.
+*comment You may obtain a copy of the License at
+*comment
+*comment  http://www.choiceofgames.com/LICENSE-1.0.txt
+*comment
+*comment See the License for the specific language governing
+*comment permissions and limitations under the License.
+*comment
+*comment Unless required by applicable law or agreed to in writing,
+*comment software distributed under the License is distributed on an
+*comment "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
+*comment either express or implied.
+*page_break
+
+All of the sudden you see "To be continued" on the right hand corner. It seems like the episode has been finished.
+You look around and see that most characters have been paused.
+
+*line_break
+.
+*line_break
+you notice everything lean to the left
+*line_break
+.
+*line_break
+now to the right
+*line_break
+
+As if someone is walking around, everything around you is moving,
+
+you notice a familiar white door
+*image door.jpg
+"This must be what the red mask guy was telling me about. Now it is my chance to go back home."
+*page_break
+*set Reality +100
+You open the door and go to the other side.
+
+
+"AHH"
+
+*image eyes.gif
+You open you eyes, you notice that you have been laying in the floor this whole time.
+
+You look around your room. Nothing has changed. The storm has ended, your laptop is back to normal.
+You don't know if what happened was real or just a dream.
+
+
+Next you shut down the laptop and go to bed.
+
+"What a crazy day"
+
+*goto_scene ending

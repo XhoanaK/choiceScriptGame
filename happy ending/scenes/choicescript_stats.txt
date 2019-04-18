@@ -1,0 +1,9 @@
+Mental State
+
+*stat_chart
+  opposed_pair Sanity
+    Insanity
+  opposed_pair Happiness
+    Depression
+  opposed_pair Reality
+    Fantasy

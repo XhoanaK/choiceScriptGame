@@ -1,0 +1,122 @@
+*comment Copyright 2010 by Dan Fabulich.
+*comment
+*comment Dan Fabulich licenses this file to you under the
+*comment ChoiceScript License, Version 1.0 (the "License"); you may
+*comment not use this file except in compliance with the License.
+*comment You may obtain a copy of the License at
+*comment
+*comment  http://www.choiceofgames.com/LICENSE-1.0.txt
+*comment
+*comment See the License for the specific language governing
+*comment permissions and limitations under the License.
+*comment
+*comment Unless required by applicable law or agreed to in writing,
+*comment software distributed under the License is distributed on an
+*comment "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
+*comment either express or implied.
+
+*title Happy Ending
+*author Xhoana Koca
+*scene_list
+  startup
+
+
+*create Sanity 75
+*create Happiness 50
+*create Depression 50
+*create Reality 100
+
+The time is 8:36 pm, you're on your way home after a long day of school. Your mind is occupied with
+thoughts that have no meaning, your eyes are fixed on the dirty floors of the train trying to make a
+figure out of it. Your focus is ruined when you realize that you get off next stop.
+*image train1.jpg
+You check the app transit in case there is a bus near so you don't have to walk 20 minutes home. The next
+bus comes in 1 minute, the train is slowing down and you can see the platform. As soon as the doors open
+you see the stairs. You take the same route everyday so you know which cart is closest to the stairs.
+
+You see the bus down the block and then:
+
+
+*choice
+  #You start running to the bus stop.
+    *image bbus.jpg left
+    You felt your whole body working; your leg muscles running warm,
+    fresh air entered your lungs and blood flowed into all of your limbs.
+    The last time you ran this much was back in high school.
+    Keeping your breath steady, you pushed harder and went faster until you arrived at the bus stop.
+
+    Your breath came in short gasps as you took out your metro card.
+    The ride was short and in a few minutes you were home.
+
+    *set Happiness +1
+    *goto home
+  #You walk slowly as you see the bus go.
+    *image walk.gif
+    You lower the volume of your music and start walking home, after 17 minute you arrive at your front door.
+    You can't wait to take off your shoes and lay in your bed.
+
+    *goto home
+    *finish
+
+
+
+*label home
+*page_break
+After eating dinner you go to your room and open your laptop. Soon you decide to watch your favorite:
+*goto tv
+*finish
+*label tv
+*choice
+  #Anime
+    You look at your reflection in the black laptop screen. The thought of watching a new episode of your favorite
+    anime makes you smile.
+    *line_break
+    *image watchingtv.gif
+    *set Happiness +5
+    *page_break
+    *goto Anime
+  #American tv show
+    *image netflix.png
+    It seems like Netflix is not working so you decide to watch something else.
+
+    *goto tv
+    *finish
+  #Korean Dramas
+    *image drama.jpeg
+    It seems like drama fever has been shut down sadly you don't want to
+    open the dramas in shady websites so you decide to watch something else.
+    *goto tv
+    *finish
+*label Anime
+*page_break
+
+You decide to watch:
+*goto watchAnime
+*finish
+
+*label watchAnime
+*choice
+  #Naruto
+    The anime that you're watching is Naruto.
+    You turn up the volume and the opening song is blasting throughout the room.
+
+    You have seen Naruto since you were 9 years old, You have cried, laughed
+    and grown together with Naruto. It is your favorite anime of all times.
+    *line_break
+    You are singing along the opening song and smiling from ear to ear.
+    *image dance.gif
+    *set Happiness +2
+    *page_break
+    *goto_scene narutoWorld
+    *goto
+    *finish
+  #Attack on titan
+    *image loading.gif
+    It seems like the episode is taking too much time to load. You decide to watch something else.
+    *goto watchAnime
+    *finish
+
+
+*label tvshow
+It seems like Netflix is not working so you decide to watch some thing else.
+*goto

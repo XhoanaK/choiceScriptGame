@@ -1,0 +1,698 @@
+Suddenly the volume was turning up and down in a split of a second, and then the laptop screen was turning on and off.
+
+
+Your lights were flickering, you look out your window and a crazy thunderstorm is going on.
+
+
+Raindrops continued their ravage on the earth, ripping cruelly at the ground and whistling angrily through the trees.
+*page_break
+*sound thunder.mp3
+*image thunder.gif
+Lightning flashed in the night, making everything visible for one moment. Loud thunder echoed throughout the house.
+
+
+You jumped at the noise. The cries from heaven started shaking the sky.
+
+
+
+AND then
+*line_break
+.
+*line_break
+.
+*line_break
+.
+*line_break
+Your laptop starts to glitch, the monitor was deformed.
+
+
+*page_break
+*image laptop.gif
+Mixed emotion come over you, angry, confusion, and sadness. You try to touch the screen but it's super hot.
+The screen residue could be found on your fingertips th...the screen is melting.
+"What the..." you think, confused and curious you try to touch the screen again when all of the sudden....
+
+*page_break
+you feel someone grabbing onto you.
+*line_break
+*image grab.gif
+*line_break
+.
+*line_break
+.
+*line_break
+
+AHHHHHHHHHHH
+*line_break
+*image flash.gif
+*page_break
+AAHHHHHHHH
+*line_break
+
+your faint scared voice could be heard throughout your room but you were no where in sight.
+*image darkroom.jpeg
+*page_break
+*goto narutoFantasy
+
+*finish
+
+
+*label narutoFantasy
+AAHHHHHHHH
+*sound heart.mp3
+*line_break
+.
+*line_break
+.
+*line_break
+.
+*line_break
+thud
+*line_break
+
+You get up and touching your scraped knees you start to look around.
+You are surrounded with white walls. Everywhere you look its white. Your heartbeat is getting faster and faster.
+You look around and you notice a white door.
+*image door.jpg
+*line_break
+"Am I.."
+*line_break
+.
+
+*page_break
+"Am I dead..." you mumble to yourself. You can't believe it, you have so much more to live for.
+
+*line_break
+You walk towards the door and you enter it.
+*image dooropen.gif
+Your eyes can't believe what you're seeing. At the lower right hand corner you notice a small "Episode 85?" What the hell is that.
+*page_break
+You look around and you notice some familiar faces.
+"OMG I'am in anime heaven.." you think to yourself.
+*set Reality -100
+*set Happiness +15
+"Hey doc, you are finally here everyone is waiting for you"- a nurse tells you.
+*line_break
+"Ar..Are you talking to me? I am not a doctor" the nurse looks at you confused and says "Of course you are,
+now come on everyone is waiting for you"
+
+*fake_choice
+  #Walk the other away
+    You start to ignore the nurse and go on your way and explore the Hidden Leaf Village.
+    *line_break
+  #You ignore her and go eat Ichiraku Ramen.
+    You have always wanted to try Ichiraku Ramen and now it's your chance.
+    *line_break
+"Where do you think you're going? Come on now I don't have time for this. We really need to go. NOW"
+The nurse stops you before you can make your grand exit.
+*choice
+    #You start asking her questions
+
+      *set Sanity +2
+      *goto questions
+      *finish
+    #Make a stop to the library to get more information about your work.
+
+      *set Sanity +3
+      *goto library
+      *finish
+    #Start running like you are a ninja
+      *set Happiness +5
+      *set Sanity -10
+      *goto ninja
+      *finish
+
+*label questions
+"So umm why is everyone waiting for me?" you ask her.
+
+"Hmm? Oh well since you are new in town the Hokage decided to have me
+help you around the hospital office." the nurse said.
+
+"Hospital Office?" oh yeah she did call me a doctor before. I wonder what kind of doctor I am,
+well it doesn't even matter I don't have any experience at all.
+
+"Yeah, you are a therapist and since you're the first of this kind here the Hokage wanted to help you
+get settled faster and give you your own office."
+
+As you were walking someone bumps into you, he gives you a letter in split of a second.
+
+"Read it when you're alone" the mysterious men whispers at your ear.
+*page_break
+When the nurse is not looking you open the letter
+*line_break
+*image THREAT2.png
+*set Depression +15
+*goto docOffice
+*page_break
+
+*finish
+
+*label library
+"Hey I need to look at some books, can you please take me to Konoha library first?"
+
+"Well I suppose even the best therapist need to study everyday, sure I will take you there but don't take too much time.
+I have already wasted so much time." the nurse tells you.
+
+So I am a therapist, hmm so I should probability need to look at some psychology books.
+
+UGHHHHH THIS IS SO FRUSTRATING how the hell am I going to fake being a doctor.
+*line_break
+All of the sudden someone bumps into you, he gives you a letter in split of a second.
+
+"Read it when you're alone" the mysterious men whispers at your ear.
+*page_break
+When you go to the library you find a corner and open the letter.
+
+*image THREAT2.png
+
+
+*goto docOffice
+*page_break
+*finish
+
+*label ninja
+You have always wanted to try to run like a ninja but if you do it in the real world people would look at you
+like you're crazy.
+
+NOW IT'S FINALLY THE TIME.
+
+You get in position you bend your torso forward, and then you hold your arms straight out behind your back
+*image ninjarun.gif
+You start running fast.
+*line_break
+.
+*line_break
+.
+*line_break
+thud
+*line_break
+OUCH
+*line_break
+
+You have bumped into someone, you thought it was an accident but the mysterious men
+gives you a letter.
+
+"Read it when you're alone" the mysterious men whispers at your ear.
+*page_break
+When the nurse is not looking you open the letter.
+*line_break
+*image THREAT2.png
+
+
+*goto docOffice
+*finish
+
+*label docOffice
+*page_break
+You have finally arrived at the hospital.
+The nurse urges you to wear your uniform because you will soon meet your patient.
+The first patient that you will work with is:
+*choice
+    #The one and only Naruto
+      *set Happiness +5
+      *goto NarutoPatient
+
+
+      *finish
+    #Sasuke
+      *set Happiness +5
+      *goto SasukePatient
+      *set Happiness +5
+
+      *finish
+
+*label NarutoPatient
+*line_break
+You go to your office and wait for the first patient.
+
+
+Someone enters your room you expected Naruto to show up but its someone else.
+A red mask is covering his face, and he has a red hood over his head.
+*image redmask.jpg
+"It seems that you're not taking my advice seriously. I can't blame you, I was the same way too. But you need to
+finish the mission otherwise you will end up like me. Waiting to be erased. " the mask guy tells you.
+
+"Y...you are the one who gave me the note. Why am I here? I don't understand I never asked to be here." you tell the masked guy.
+*page_break
+"Right now you are on a trial episode. If you give the characters a good advice this episode will go to the next level where the
+creators upload them online.They take all the finished episodes to this white room, similar to the one you came from.
+
+THAT IS WHEN YOU WILL HAVE YOUR CHANCE TO GO BACK.
+
+If you fail your mission the creators will have to erase you.
+You will be erased from the real world and from this world.
+This is not a joke you should take it seriously.” the masked guy told you.
+*page_break
+
+“how come you're still here?”  you ask him
+
+“I was able to escape before the creator erased me completely, but he got my face. Now I can only live in the shadows,
+and hide behind extra characters.
+
+You need to try and finish your mission." he tells you.
+
+"and what exactly is my mission. I don't understand, I don't have  a background in psychology how can I do this job."
+you tell him as you sit down on the chair beside your desk.
+*sound ost.mp3
+"OH GOD I HAVE NEVER MET ANYONE AS FRUSTRATING AS YOU. The mission is PRETTY SIMPLE you just need to give good advice to
+the characters and in a way that it can't hurt the flow of the story"
+
+He said the last words as he jumped from the window and disappeared in the shadows of the building.
+*page_break
+Someone knocks in your door, it is Naruto.
+
+"You can sit down, make yourself comfortable and please state your name and age."  you tell Naruto.
+
+A strange feeling of excitement fills your heart
+as you watch him. Considering that Naruto's outfit is that from the Naruto Shipppuden you feel a little bit more at ease
+since he is a little more mature.
+*page_break
+"Hi my name is Naruto Uzumaki im 17 years old... wow this is so cool, so you will be my therapist? I don't think I need one but Lady Tsunade said that I have to attend
+at least 5 sessions with you in order for me to get a new mission....." Naruto goes on and on explaining his story but your
+mind is occupied with Naruto and all of his achievements that he has done.
+*image talking.gif
+
+You can not believe that he is in front of you,
+your idol is seating in front of you. Then you glance at your table and see note that that mystery man gave you. That brings
+you back into 'reality' and you start to listen to Naruto.
+
+"what do you think doc?" Naruto tells you.
+*page_break
+
+'WHAT DO I THINK? OH NOO WHAT WAS HE TALKING ABOUT? I can't believe I wasn't paying
+attention to his story, how the hell am I going to get out of here if I don't listen to my patient' you think to yourself.
+
+
+What do you tell Naruto next?
+*choice
+    #"Can you repeat what you said again"? You ask Naruto.
+      "Ca..Can I repeat it again? God I knew this was so stupid in the first place. I don't understand why Tsunade
+      wants me to be here, it's such a waste of time. Im out. "
+      *image narutowalk.jpg
+      *set Depression +5
+      *goto FollowNaruto
+
+
+      *finish
+    #"I think you did the right thing Naruto" you tell him without knowing the context.
+      "RIGHT..I also think the same, I can't believe Sakura wanted to go to the mission without eating Ramen first.
+      Who knows how long the mission would have been. I can't even go a day without my ramen." Naruto tells you
+      *image smilenaruto.gif
+      *goto ConNaruto
+      *set Depression +5
+
+      *set Insanity +10
+      *finish
+
+
+*label FollowNaruto
+
+
+What will you do?
+
+*choice
+
+    #follow Naruto.
+      You FINALLY start to pay some attention to the mission that you have to do. You take in consideration what the red mask guy told you
+      and you're on your way to follow Naruto.
+      *goto FollowNa
+      *set Sanity +5
+      *set Happiness -5
+
+      *finish
+    #eh who cares, just wait for the next patient.
+      You still don't pay attention to what the red mask guy told you. You think it's best to wait for the next patient.
+      *goto stayin
+      *set Sanity -20
+      *set Happiness 5
+
+      *finish
+*label stayin
+*line_break
+
+You wait all day but NO ONE went inside your room. It's almost 6 pm and you can see the sun starting to set. You want to go outside
+to ask some of the nurses if you have any other appointments.
+
+*goto_scene death
+*finish
+
+
+*label FollowNa
+*line_break
+
+You start running outside in hopes to see Naruto but no luck, he is no where in sight.
+When you turn around you see Sakura, you tell her how you are looking for Naruto and she said she will bring him to you.
+
+From far away you can see Sakura hitting Naruto.
+*image hit.gif
+
+After 10 minutes Sakura is in your office with a hurt Naruto. He has a nosebleed. She makes Naruto to sit down
+*image sit.gif
+and she tells him how immature he is and how he needs to follow the instructions from the Hokage.
+
+When Sakura leaves the office Naruto tells you that he is sorry for leaving before.
+
+Then you tell him:
+
+*choice
+    #So lets start, tell me about yourself.
+      *goto NarutoStory
+      *finish
+
+
+
+
+
+*label NarutoStory
+Naruto tells you how he wants to be a hokage and how he wants to help everyone he can. He really values friendship
+and family. His teammates are his family and he cares a lot about them.
+
+"Okay we are making progress but I want to know about the real you. Where do you get all this energy to save your friends
+
+tell me more about your chakra"
+
+"how do you know about that? Well I guess everyone must know. That is the first thing people know about that.
+How I am a monster and how I shouldn't have been born, they say those kind of things about me." Naruto sadly tell you,
+
+"And how do you feel about that? "
+
+"I feel sad, frustrated. Why can't they see that I am just human and treat me the same as the rest of the ninjas." Naruto tell you.
+
+"Well Naruto the thing is that:...
+*choice
+    #You really are carrying a monster inside you so the villagers aren't wrong.
+      If you carry a monster inside of you, let him grow inside you. You will have no choice but to become the monster
+      that you are carrying.
+      *image narutosad.gif
+      *set Sanity -20
+
+      *goto_scene death
+      *finish
+    #You are more than just a person who carries the nine tail fox.
+      You are a valuable person of Konoha Village.
+      You will do great things when you grow up. Don't let anyone bring you down.
+      *set Happiness +10
+
+      *goto valuable
+      *finish
+
+*label valuable
+*line_break
+
+"Even when you are in a bad place in your life you never let your friends and teammates get hurt. You always put them first
+and you always see the good in people. You are so much precious and amazing. Think about all the friends that you have made
+along the way. How many people you have saved. Stop thinking that you are a monster.
+*image narutocry.gif
+After everything that you have been through you have your friends and Team 7.
+
+You should always rely on your loved ones." you tell Naruto you also get emotional while looking at Naruto break down. He is so strong
+and you feel proud that he is your hero.
+
+*goto_scene happyEnding
+*finish
+
+
+
+
+
+*label ConNaruto
+*line_break
+
+"Right I totally agree with you, food is so much more important."
+next time you should:
+
+*choice
+    #be late to the mission to spite Sakura
+      "You know doc I think that is an excellent idea. I will totally do that next time I have a mission."
+      *goto_scene death
+      *finish
+    #just don't go to the mission and go eat ramen.
+      "You know doc I think that is an excellent idea. I will totally do that next time I have a mission."
+      *goto_scene death
+      *finish
+    #organize your schedule so you can eat ramen and still be on time for your mission.
+      "now that we have established that, what else can you tell me more about yourself?" you tell Naruto.
+      *goto NarutoStory
+      *finish
+
+
+*label SasukePatient
+You go to your office and wait for the first patient.
+
+
+Someone enters your room you expected Sasuke to show up but its someone else.
+A red mask is covering half of his face, and he has a red hood over his head.
+*image redmask.jpg
+"It seems that you're not taking my advice seriously. I can't blame you, I was the same way too. But you need to
+finish the mission otherwise you will end up like me. Waiting to be erased. " the mask guy tells you.
+*sound ost.mp3
+"Y...you are the one who gave me the note. Why am I here? I don't understand I never asked to be here." you tell the masked guy.
+*page_break
+"Right now you are on a trial episode. If you give the characters a good advice this episode will go to the next level where the
+creators upload them online.They take all the finished episodes to this white room, similar to the one you came from.
+
+THAT IS WHEN YOU WILL HAVE YOUR CHANCE TO GO BACK.
+
+If you fail your mission the creators will have to erase you.
+You will be erased from the real world and from this world.
+This is not a joke you should take it seriously.” the mask guy told you.
+*page_break
+
+“how come you're still here?”  you ask him
+
+“I was able to escape before the creator erased me completely, but he got my face. Now I can only live in the shadows,
+and hide behind extra characters.
+
+You need to try and finish your mission." he tells you.
+
+"and what exactly is my mission. I don't understand, I don't have  a background in psychology how can I do this job."
+you tell him as you sit down on the chair beside your desk.
+
+"OH GOD I HAVE NEVER MET ANYONE AS FRUSTRATING AS YOU. The mission is PRETTY SIMPLE you just need to give good advice to
+the characters and in a way that it can't hurt the flow of the story"
+
+He said the last words as he jumped from the window and disappeared in the shadows of the building.
+*page_break
+
+Someone knocks in your door, it is Sasuke.
+“okay I'm here, let's get this over with.”
+*image sasuke.jpg
+The 3rd Hokage said that I need to attend some sessions with you before taking the chunin exam” he tells you.
+
+“uhm first just take a seat and state your name and age."  you tell him.
+
+"Sasuke Uchiha, 13" he tells you
+
+
+So Sasuke is there anything you would like to share with me first. It could be anything.” you tell him.
+
+“I think this is a waste of time. There I shared something can I go now?”
+
+“no not yet, we haven't even started yet.
+
+
+Then you ask him:
+
+*choice
+    #about his parents and Itachi.
+      "Now let's talk a little about your personal life. How did you feel when you discovered your parents?"
+      *set Sanity - 10
+      *goto Parents
+      *finish
+    #about Team7.
+
+      *goto team7
+      *finish
+
+
+*label Parents
+You can notice his eyes got darker. You can assume that he just saw that scene again in his mind.
+Then his face relaxes and he said "it's none of your business"
+
+"Have you talked to anyone about how you felt in those moments?
+It is better if you talk with someone, that is why the Hokage hired me. To help people like you."
+
+"How do I know that you will keep my secrets safe? Showing you my weaknesses means that I become vulnerable.
+
+I prefer to not risk it." Sasuke says as he leaves.
+You can see him shutting the door.
+
+then you decide to:
+
+*choice
+    #follow Sasuke.
+      You FINALLY start to pay some attention to the mission that you have to do. You take in consideration what the red mask guy told you
+      and you're on your way to follow Sasuke.
+      *goto FollowSasuke
+      *set Sanity +20
+      *set Depression +5
+
+      *finish
+    #eh who cares, just wait for the next patient.
+      You still don't pay attention to what the red mask guy told you. You think it's best to wait for the next patient.
+      *goto stayinside
+      *set Sanity -20
+      *set Depression +5
+
+      *finish
+
+
+
+
+*label stayinside
+*line_break
+
+You wait all day but NO ONE went inside your room. It's almost 6 pm and you can see the sun starting to set. You want to go outside
+to ask some of the nurses if you have any other appointments.
+*goto_scene death
+*finish
+
+
+*label FollowSasuke
+You start running outside in hopes to see Sasuke but no luck, he is no where in sight.
+When you turn around you see Kakashi,
+*image kakashi.gif
+you tell him how you are looking for Sasuke and he said he will bring him to you.
+You go back to the office and wait for both of them to come.
+
+After 10 minutes Kakashi is in your office with a hurt Sasuke he has a scar on his forehead. He makes Sasuke to sit down
+and he tells him how he needs to follow the instructions from the Hokage and that the Hokage would not bring a therapist if it meant
+that his people would get hurt.
+
+When Kakashi leaves the office Sasuke tells you that he is sorry for leaving before.
+
+Then you tell him:
+
+*choice
+    #So are you ready to start?
+
+      *goto SasukeStory
+      *finish
+
+
+*label SasukeStory
+Sasuke start to talk about how much fun he had in his childhood and how he always looked up to his brother.
+His brother was his idol. And then he talked about how devastated he was when he saw Itachi kill his entire clan.
+His whole life was turned upside down. The only thoughts that occupied his mind were revenge.
+
+then you ask him
+
+*choice
+    #Do you think revenge is the only reason you're alive
+      Sasuke is thinking hard about that questions and then he answers "yes"
+
+      *goto Revenge
+      *finish
+
+*label Revenge
+*line_break
+
+"I am the sole survivor of my clan and I believe I was left alive to take revenge." he tells you.
+
+"Do you ever wish you turned the page and forgot about revenge?" you ask him.
+
+"I do but everything changed overnight, the person who I loved the most betrayed our family and our village. I
+had to learn how to live with the guilt of being the only survivor."  Sasuke said.
+
+then you tell him
+
+*choice
+    #since your life is so hard to live with the guilt why don't you just end it?
+      *goto endIt
+      *set Sanity -50
+
+      *finish
+    #You have been through so much, just forget about revenge and live your life.
+      *goto forgetIt
+
+      *finish
+    #You need to lean in your teammates and overcome your guilt.
+      *set Sanity +5
+
+      *goto teammates
+*label endIt
+"You really think that I should join my family and end my life?"
+*image sasuketalk.gif
+
+*choice
+    #Yes
+      Yeah, you are not even enjoying your life but you are using it to get revenge. You might as well die
+      and stop making other people suffer because of you.
+      *set Sanity - 10
+      *goto_scene death
+      *finish
+    #No
+      Absolutely not. Your life is so much more important than just giving up because you feel guilty.
+      You need to train harder and become stronger. Your teammates will help you.
+      *set Sanity +30
+      *goto teammates
+      *finish
+
+*label forgetIt
+"You need to live your life for yourself now. Stop worrying about taking revenge. You are now 13 years old,
+focus on your chunin exam and become strong for yourself."
+*page_break
+*image no.gif left
+Even though your heart was in the right place with this choice; you are actually hurting the flow of the plot.
+Remember when the red mask guy explained the mission. That was one of the rules.
+*goto_scene death
+*finish
+
+*label teammates
+Even though your whole clan was murdered and you are alone in this world. Do not forget your Team7.
+Your teammates are your family. You will grow and learn a lot through being with them.
+*image team7.png
+You should learn to be more open with people who love and take care of you.
+
+*goto_scene happyEnding
+*finish
+
+
+*label team7
+"what do you need to know about them?" he asks you.
+
+"Well tell me about them, how do you feel that you are on the same team as Naruto?"
+
+He starts talking about how useless they are but he also has a smile that
+he is trying to hide so you can assume that he really cares about them.
+
+“you care about them don't you”? you ask him.
+
+"No, my life would be so much easier if it weren't for those two."
+
+then you tell him
+
+*choice
+    #Just change your teammates.
+      *goto change
+      *set Sanity -10
+      *finish
+    #Practice more with them.
+      If you teach them more tricks and how to survive they wouldn't bother you as much.
+      *goto teach
+      *set Sanity +10
+      *finish
+
+*label change
+Sasuke was dumbfounded when he heard you say that.
+"I..I don't think that is possible. I have not seen anyone who has done it. I can't just leave
+my team." he tells you.
+
+"There should be something available incase someone needs to change team. You should look more into it.
+If they are useless and are bringing you down you should just leave them and go to another team. " you tell him.
+
+"Alright I will ask someon..."
+*goto_scene death
+*finish
+
+
+*label teach
+"Both of your teammates are capable of learning from you. If you spend a little more time with them and stopped
+acting like you're untouchable, then you will realize how lucky you are to have friends like them. " you tell him.
+
+Sasuke was astonished when he heard you. It seems that noone has talked to him like that.
+
+
+
+*goto_scene happyEnding
+*finish
